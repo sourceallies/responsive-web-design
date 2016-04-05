@@ -1,13 +1,11 @@
 # Responsive Web Design Workshop
 
-The interactive workshop site can be found at http://rwd.zapto.org
+1) Install Node.js
 
-## Development
-
-If you would like to run the source code locally, clone this repo and run the following commands after installing node.js:
+2) Clone this repo and run the following commands:
 
     > npm install
     > npm install -g gulp
     > gulp
 
-Then open your browser to http://localhost:8080
+3) Open your browser to http://localhost:8080
